@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractFactoryModifie/AbstractFactoryModifie.iml" filepath="$PROJECT_DIR$/AbstractFactoryModifie/AbstractFactoryModifie.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProjetAbstractFactory.iml" filepath="$PROJECT_DIR$/ProjetAbstractFactory.iml" />
     </modules>
   </component>
